@@ -31,11 +31,6 @@ Each attack generates logs and alerts that are analyzed in Wazuh as part of the 
 
 ---
 
-## 🎥 Project Demo Video
-▶️ **Watch project explanation here:**  
-[Google Drive Video Link]https://drive.google.com/file/d/1dn5wZ-0xlgQN9Qnb3XPP7VKxHiyAa5jY/view?usp=sharing
-
----
 
 ## 📊 Diagrams (Figma)
 The following diagrams explain the system and workflow:
